@@ -1,2 +1,2 @@
 # public
-site content
+https://vps.exposed
