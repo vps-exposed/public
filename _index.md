@@ -20,9 +20,9 @@ image/snapshot. Do not confuse with providers that allow installing from an ISO.
 
 * :heavy_check_mark: Fully supported.
 * :question: Partially supported, need to contact support and ask for it.
-* :x: Not supported, it may support installations form an iso but not botting directly form an own image.
+* :x: Not supported, it may support installations from an ISO but not booting directly form an own image.
 
-You can test by using his image: https://fabrik.red/post/test/
+You can test by using this image: https://fabrik.red/post/test/
 
 
 # Why?
