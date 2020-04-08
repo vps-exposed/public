@@ -13,7 +13,7 @@ image/snapshot. Do not confuse with providers that allow installing from an ISO.
 | [GCE](https://cloud.google.com/compute/) | :heavy_check_mark: |
 | [Hetzner](https://hetzner.com) |  :x:  |
 | [Lunanode](https://lunanode.com) |  :heavy_check_mark:  |
-| [Netcup](https://netcup.eu) |  :heavy_check_mark:  |
+| [Netcup](https://netcup.eu) (IPv6 :warning:) |  :heavy_check_mark:  |
 | [Ramnode](https://ramnode.com) |  :heavy_check_mark:  |
 | [Upcloud](https://upcloud.com/) |  :x:  |
 | [Vultr](https://vultr.com) |  :heavy_check_mark:  |
